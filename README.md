@@ -2,7 +2,7 @@
     <br />
     <img src="./icons/stable/codium_cnl.svg" alt="VSCodium Logo" width="200"/>
     <h1>NetChicken</h1>
-    <h3>Free/Libre Open Source Software Binaries of VS Code</h3>
+    <h3>New-age FOSS IDE with many distinguishing features, such as a cool NetChick.</h3>
 </div>
 
 <div id="badges" align="center">
