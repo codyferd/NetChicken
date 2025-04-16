@@ -91,26 +91,6 @@ maintained by [@m00nw4tch3r](https://aur.archlinux.org/account/m00nw4tch3r).
 
 An alternative package [vscodium-git](https://aur.archlinux.org/packages/vscodium-git/), maintained by [@cedricroijakkers](https://github.com/cedricroijakkers), is also available should you wish to compile from source yourself.
 
-#### <a id="flatpak"></a>Flatpak Option (Linux)
-
-VSCodium is available as a Flatpak app [here](https://flathub.org/apps/details/com.vscodium.codium) and the build repo is [here](https://github.com/flathub/com.vscodium.codium).
-If your distribution has support for [flatpak](https://flathub.org), and you have enabled the [flathub repo](https://flatpak.org/setup/):
-
-```bash
-flatpak install flathub com.vscodium.codium
-flatpak run com.vscodium.codium
-```
-
 ## <a id="build"></a>Build
 
 Build instructions can be found [here](https://github.com/VSCodium/vscodium/blob/master/docs/howto-build.md)
-
-## <a id="more-info"></a>More Info
-
- by <a href="https://signpath.io/" target="_blank">SignPath.io</a>, certificate by <a href="https://signpath.org/" target="_blank">SignPath Foundation</a></td>
-  </tr>
-</table>
-
-## <a id="license"></a>License
-
-[MIT](https://github.com/VSCodium/vscodium/blob/master/LICENSE)
